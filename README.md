@@ -1,0 +1,2 @@
+# Insurance-probability
+insurance project
